@@ -1,2 +1,2 @@
 a readme about git
-test code and my name
+test code and my name is LC
