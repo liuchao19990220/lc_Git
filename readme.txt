@@ -4,4 +4,3 @@ Now I am using git
 Test modify 
 Test twice
 create a new branch
-test github
